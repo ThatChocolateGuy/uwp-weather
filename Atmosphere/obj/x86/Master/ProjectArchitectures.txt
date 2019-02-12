@@ -1,0 +1,1 @@
+C:\Users\tsuka\Google Drive\School\Windows 10 Dev\uwp-experiences\apps\weather\Atomosphere.UWP\Atmosphere\Atmosphere.csproj;x86
